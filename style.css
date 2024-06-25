@@ -22,7 +22,7 @@ body {
  color: #000000;
  justify-content: space-between;
  display: flex;
- position: fixed;
+ position: fixed !important;
  top: 0;
  transition: background-color 0.5s ease;
 }
